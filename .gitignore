@@ -1,5 +1,0 @@
-data/raw/*student_performance.csv
-.ipynb_checkpoints/
-__pycache__/
-.venv/
-*.pyc

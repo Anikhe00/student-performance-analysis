@@ -32,3 +32,11 @@ Sourced from [Kaggle — Student Performance Predictions](https://www.kaggle.com
 2. Exploratory data analysis - distributions, correlations, group comparisons
 3. Hypothesis testing - check specific claims against the data (e.g. "higher study hours is associated with higher final grades")
 4. Conclusions - summarize what the data does and doesn't support
+
+### Hypothesis
+| **Hypothesis** | **Test approach** |
+|---|---|
+| Higher attendance is associated with higher final grade | Correlation / scatterplot |
+| More study hours per week is associated with higher final grade | Correlation / scatterplot |
+| Students with High parental support have higher final grades than Low | Group comparison (boxplot, means, maybe t-test/ANOVA) |
+| Extracurricular activity involvement relates to final grade | Correlation or group comparison depending on how it's coded |
